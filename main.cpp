@@ -1,4 +1,4 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello,A Git!" << std::endl;
+    std::cout << "Hello, Git!" << std::endl;
